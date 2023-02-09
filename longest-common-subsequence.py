@@ -25,3 +25,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Sample Output -
+# ---------------
+# Enter the first string: abcda
+# Enter the second string: bdabac
+# The longest common subsequence count is 3.

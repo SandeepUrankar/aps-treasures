@@ -8,3 +8,5 @@ All the codes from APS class.
    [GFG](https://practice.geeksforgeeks.org/problems/set-bits0143/1)
 5. [Pascal's Triangle](./05-pascals-triangle.java) <br>
    [LeetCode](https://leetcode.com/problems/pascals-triangle)
+6. [Longest Common Prefix](./06-longest-common-prefix.java) <br>
+   [LeetCode](https://leetcode.com/problems/longest-common-prefix)

@@ -10,3 +10,5 @@ All the codes from APS class.
    [LeetCode](https://leetcode.com/problems/pascals-triangle)
 6. [Longest Common Prefix](./06-longest-common-prefix.java) <br>
    [LeetCode](https://leetcode.com/problems/longest-common-prefix)
+7. [Fractional Knapsack](./07-fractional-knapsack.java) <br>
+   [GFG](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)

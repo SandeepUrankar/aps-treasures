@@ -12,3 +12,5 @@ All the codes from APS class.
    [LeetCode](https://leetcode.com/problems/longest-common-prefix)
 7. [Fractional Knapsack](./07-fractional-knapsack.java) <br>
    [GFG](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+7. [Minimizing Coins](./08-minimizing-coins.java) <br>
+   [CSES](https://cses.fi/problemset/task/1634/)

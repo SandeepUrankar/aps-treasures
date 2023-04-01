@@ -1,3 +1,6 @@
 *.exe
 .vscode/
 *.class
+out/
+.idea/
+APS.iml

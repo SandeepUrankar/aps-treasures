@@ -5,7 +5,7 @@ class Solution {
         Scanner in = new Scanner(System.in);
         int T = in.nextInt();
         while(T --> 0){
-            int n = in.nextInt();
+            in.nextInt();
             int d = in.nextInt();
             Boolean done = false;
             String input = in.next();
@@ -28,6 +28,7 @@ class Solution {
                 System.out.println(num);
             }
         }
+        in.close();
     }
 }
 

@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "type": "jps-build",
+            "name": "Jps-build configuration",
+        },
+        
+    ]
+}

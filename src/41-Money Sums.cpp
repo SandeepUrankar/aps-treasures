@@ -1,10 +1,4 @@
-/**
- 🍪 the_hyp0cr1t3
- 🍪 06.12.2020 18:50:14
-**/
-#ifdef W
-#include "k_II.h"
-#else
+
 #include <bits/stdc++.h>
 using namespace std;
 #endif

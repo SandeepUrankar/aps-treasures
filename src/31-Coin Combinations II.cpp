@@ -1,7 +1,4 @@
-/**
- 🍪 thew6rst
- 🍪 11.02.2021 17:06:56
-**/
+
 #ifdef W
     #include "k_II.h"
 #else

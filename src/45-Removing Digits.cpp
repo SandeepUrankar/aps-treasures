@@ -1,7 +1,4 @@
-/**
- 🍪 the_hyp0cr1t3
- 🍪 06.12.2020 18:05:04
-**/
+
 #ifdef W
 #include "k_II.h"
 #else
